@@ -1,4 +1,4 @@
-# Timer App with React
+# Timer App com React
 
 Este é um projeto de um timer desenvolvido com React, baseado no curso da Rocketseat. Nele, foram aplicados diversos conceitos avançados do React, como useReducer, immer, Context API, React Router e outros hooks do React. O objetivo deste aplicativo é fornecer uma ferramenta de timer personalizável para ajudar os usuários a gerenciar suas atividades com facilidade.
 
