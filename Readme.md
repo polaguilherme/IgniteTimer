@@ -25,7 +25,9 @@ Clone este repositório para o seu ambiente local.
 No seu terminal do vscode escreva os seguintes comandos:
 
 1- git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 2- cd nome-do-repositorio
+
 3- npm install
 
 # Para rodar o servidor em seu navegador:
